@@ -1,0 +1,8 @@
+{
+    "description":"发布 v3.6（稍后删库，尽快fork），优化代码，修正 NaiveProxy 错误，增加 HTTPS/HTTP 出站代理",
+    "format":".lzma",
+    "main":"\\winXray.exe",
+    "updater":"\\winXray.exe",
+    "url":"https://raw.githubusercontent.com/winXray/winXray/master/release/update/",
+    "version":"3.6"
+}
